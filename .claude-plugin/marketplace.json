@@ -1,0 +1,6 @@
+{
+  "name": "claude-plume",
+  "description": "Plume : réécrit tes prompts pour Claude Code en demandes claires et économes en tokens",
+  "owner": { "name": "Pinutss" },
+  "plugins": [{ "name": "plume", "source": "./" }]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "plume",
+  "version": "0.1.0",
+  "description": "Bouton plume qui réécrit le brouillon du prompt en demande structurée et concise pour Claude",
+  "author": { "name": "Pinutss" },
+  "license": "MIT",
+  "repository": "https://github.com/Pinutss/claude-plume",
+  "types": "./types/index.d.ts"
+}
